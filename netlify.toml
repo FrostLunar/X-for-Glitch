@@ -6,7 +6,7 @@ functions = "functions" # 如果您有服务器less功能，指定函数的目�
 [build.environment]
 WEB_USERNAME = "admin" # 配置环境变量
 WEB_PASSWORD = "password"
-PROJECT_DOMAIN = "your-project-domain" # 替换为您的项目域名
+PROJECT_DOMAIN = "incomparable-puffpuff-5ca434" # 替换为您的项目域名
 
 [functions]
 node_bundler = "npm" # 使用npm作为函数的包管理器
